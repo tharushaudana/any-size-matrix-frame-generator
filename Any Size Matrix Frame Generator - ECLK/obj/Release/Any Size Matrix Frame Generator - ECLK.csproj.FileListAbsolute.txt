@@ -1,0 +1,26 @@
+C:\Users\pcworld\source\repos\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\bin\Release\Any Size Matrix Frame Generator - ECLK.exe.config
+C:\Users\pcworld\source\repos\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\bin\Release\Any Size Matrix Frame Generator - ECLK.exe
+C:\Users\pcworld\source\repos\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\bin\Release\Any Size Matrix Frame Generator - ECLK.pdb
+C:\Users\pcworld\source\repos\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\obj\Release\Any_Size_Matrix_Frame_Generator___ECLK.Form1.resources
+C:\Users\pcworld\source\repos\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\obj\Release\Any_Size_Matrix_Frame_Generator___ECLK.Properties.Resources.resources
+C:\Users\pcworld\source\repos\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\obj\Release\Any Size Matrix Frame Generator - ECLK.csproj.GenerateResource.cache
+C:\Users\pcworld\source\repos\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\obj\Release\Any Size Matrix Frame Generator - ECLK.csproj.CoreCompileInputs.cache
+C:\Users\pcworld\source\repos\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\obj\Release\Any Size Matrix Frame Generator - ECLK.exe
+C:\Users\pcworld\source\repos\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\obj\Release\Any Size Matrix Frame Generator - ECLK.pdb
+C:\Users\pcworld\source\repos\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\obj\Release\Any_Size_Matrix_Frame_Generator___ECLK.Form2.resources
+C:\Users\pcworld\source\repos\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\obj\Release\Any_Size_Matrix_Frame_Generator___ECLK.Form3.resources
+C:\Users\pcworld\source\repos\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\obj\Release\Any Size Matrix Frame Generator - ECLK.csprojAssemblyReference.cache
+C:\Users\pcworld\source\repos\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\obj\Release\Any_Size_Matrix_Frame_Generator___ECLK.Form4.resources
+G:\Downloads Extra Folder\Any Size Matrix Frame Generator - ECLK (1)\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\bin\Release\Any Size Matrix Frame Generator - ECLK.exe.config
+G:\Downloads Extra Folder\Any Size Matrix Frame Generator - ECLK (1)\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\bin\Release\Any Size Matrix Frame Generator - ECLK.exe
+G:\Downloads Extra Folder\Any Size Matrix Frame Generator - ECLK (1)\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\bin\Release\Any Size Matrix Frame Generator - ECLK.pdb
+G:\Downloads Extra Folder\Any Size Matrix Frame Generator - ECLK (1)\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\obj\Release\Any Size Matrix Frame Generator - ECLK.csproj.AssemblyReference.cache
+G:\Downloads Extra Folder\Any Size Matrix Frame Generator - ECLK (1)\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\obj\Release\Any_Size_Matrix_Frame_Generator___ECLK.Form1.resources
+G:\Downloads Extra Folder\Any Size Matrix Frame Generator - ECLK (1)\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\obj\Release\Any_Size_Matrix_Frame_Generator___ECLK.Form2.resources
+G:\Downloads Extra Folder\Any Size Matrix Frame Generator - ECLK (1)\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\obj\Release\Any_Size_Matrix_Frame_Generator___ECLK.Form3.resources
+G:\Downloads Extra Folder\Any Size Matrix Frame Generator - ECLK (1)\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\obj\Release\Any_Size_Matrix_Frame_Generator___ECLK.Form4.resources
+G:\Downloads Extra Folder\Any Size Matrix Frame Generator - ECLK (1)\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\obj\Release\Any_Size_Matrix_Frame_Generator___ECLK.Properties.Resources.resources
+G:\Downloads Extra Folder\Any Size Matrix Frame Generator - ECLK (1)\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\obj\Release\Any Size Matrix Frame Generator - ECLK.csproj.GenerateResource.cache
+G:\Downloads Extra Folder\Any Size Matrix Frame Generator - ECLK (1)\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\obj\Release\Any Size Matrix Frame Generator - ECLK.csproj.CoreCompileInputs.cache
+G:\Downloads Extra Folder\Any Size Matrix Frame Generator - ECLK (1)\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\obj\Release\Any Size Matrix Frame Generator - ECLK.exe
+G:\Downloads Extra Folder\Any Size Matrix Frame Generator - ECLK (1)\Any Size Matrix Frame Generator - ECLK\Any Size Matrix Frame Generator - ECLK\obj\Release\Any Size Matrix Frame Generator - ECLK.pdb
